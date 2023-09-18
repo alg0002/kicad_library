@@ -1,7 +1,7 @@
 
 |   |name|description|
 |:-:|:---|:----------|
-|<img src="./img/AE-RP2040.png">                        |[AE-RP2040.kicad_mod                        ](./AE-RP2040.kicad_mod                        )|(Akizuki Denshi AE-RP2040)[https://akizukidenshi.com/catalog/g/gK-17542/]|
+|<img src="./img/AE-RP2040.png">                        |[AE-RP2040.kicad_mod                        ](./AE-RP2040.kicad_mod                        )|[Akizuki Denshi AE-RP2040](https://akizukidenshi.com/catalog/g/gK-17542/)|
 |<img src="./img/Gateron_KS-27_Hotswap.png">            |[Gateron_KS-27_Hotswap.kicad_mod            ](./Gateron_KS-27_Hotswap.kicad_mod            )|Gateron KS-27 / KS-33 with hotswap sockets|
 |<img src="./img/Gateron_KS-27_HotswapAndSolder.png">   |[Gateron_KS-27_HotswapAndSolder.kicad_mod   ](./Gateron_KS-27_HotswapAndSolder.kicad_mod   )|Gateron KS-27 / KS-33 with hotswap sockets and soldering|
 |<img src="./img/Gateron_KS-27_HotswapAndSolder2.png">  |[Gateron_KS-27_HotswapAndSolder2.kicad_mod  ](./Gateron_KS-27_HotswapAndSolder2.kicad_mod  )|Gateron KS-27 / KS-33 with hotswap sockets and soldering|
